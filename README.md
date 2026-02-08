@@ -4,7 +4,7 @@
 
 * 프로젝트 이름 : `로봇은 실수하지 않아`
 * 장르 : `캐주얼` / `스텔스 시뮬레이션` / `전략` / `생존` / `멀티 엔딩` / `싱글` / `탑뷰`
-* 개발 환경 : `Visual Studio 2022` / `WinAPI` / `C++`
+* 개발 환경 : `Visual Studio 2022` / `Win32API` / `C++`
 * 제작 기간 : `2023.05.15` ~ `2023.05.26`
 * 담당 파트 :
   1. [유한 상태 머신 설계 및 각 상태에 따른 기능 구현 (플레이어 및 보스)](https://github.com/joonyle99/Robot_Dont_Makes_Mistakes/discussions/3)
